@@ -120,7 +120,8 @@ disable=
     undefined-variable,
     unichr-builtin,
     unicode-builtin,
-    unpacking-in-except,
+    unpacking-in-
+,
     unused-argument,
     unused-variable,
     unused-wildcard-import,
